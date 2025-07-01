@@ -41,3 +41,4 @@ const {
     </main>
   );
 }
+{/* Reimported from VercelNextJS/nextjs-dashboard/app/ui/dashboard/revenue-chart.tsx */}
