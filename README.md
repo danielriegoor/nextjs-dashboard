@@ -1,5 +1,11 @@
 ## Next.js App Router Course - Starter
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Just started depuring and deploying React codes with NextJS tutoriais + `Neon` PostgreSQL.
+
+Let's move on! I'm excited on my evolution! Come with me, guys!
+
+Regards,
+
+Daniel.
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
